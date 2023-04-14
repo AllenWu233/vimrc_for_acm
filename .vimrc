@@ -1,6 +1,6 @@
 syntax on
 filetype indent on
-set nocp hi=1000 rnu wmnu ic scs ls=2 sc report=0 mat=0 sm nu si ts=4 hls sw=4 sts=4 sta et
+set nocp hi=1000 rnu wmnu ic scs ls=2 sc report=0 mat=0 sm nu si ts=4 hls is sw=4 sts=4 sta et
 
 
 :inoremap ( ()<ESC>i
