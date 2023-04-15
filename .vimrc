@@ -6,12 +6,10 @@ set nocp hi=1000 rnu wmnu ic scs ls=2 sc report=0 mat=0 sm nu si ts=4 hls is sw=
 :inoremap ( ()<ESC>i
 :inoremap [ []<ESC>i
 :inoremap { {}<ESC>i
-:inoremap < <><ESC>i
 :inoremap {<CR> {<CR>}<ESC>O
 
 :inoremap ) <c-r>=Close(')')<CR>
 :inoremap ] <c-r>=Close(']')<CR>
-:inoremap > <c-r>=Close('>')<CR>
 :inoremap } <c-r>=Close('}')<CR>
 
 :inoremap jk <ESC>
